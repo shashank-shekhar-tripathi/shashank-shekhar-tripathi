@@ -50,8 +50,8 @@ I love crafting solutions that not only perform — but also protect.
 ## 📬 Let's Connect!  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shashank-shekhar-tripathi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:shashankshekhartripathi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/shashank-shekhar-tripathi](https://www.linkedin.com/in/shashank-shekhar-tripathi-6515bb215/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:tripathiji931@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/ShashankShekharTripathi" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
