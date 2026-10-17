@@ -1,6 +1,6 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:030014,25:190061,55:5B21B6,80:2563EB,100:06B6D4&text=SHASHANK%20TRIPATHI&fontColor=FFFFFF&fontSize=48&fontAlignY=40&desc=PYTHON%20BACKEND%20ENGINEER%20%E2%9C%A6%20SAAS%20BUILDER&descAlignY=60&descSize=15&animation=twinkling" alt="Neon cyberpunk animated header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:030014,25:190061,55:5B21B6,80:2563EB,100:06B6D4&text=SHASHANK%20SHEKHAR%20TRIPATHI&fontColor=FFFFFF&fontSize=48&fontAlignY=40&desc=PYTHON%20BACKEND%20ENGINEER%20%E2%9C%A6%20SAAS%20BUILDER&descAlignY=60&descSize=15&animation=twinkling" alt="Neon cyberpunk animated header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&width=850&lines=Welcome+to+my+digital+universe+%E2%9C%A6;Python+%7C+Django+%7C+Backend+Engineering;Architecting+Multi-Tenant+SaaS+Platforms;Designing+Secure+and+Scalable+REST+APIs;Turning+Complex+Problems+Into+Clean+Code" alt="Animated developer introduction"/>
 
