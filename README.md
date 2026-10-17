@@ -243,7 +243,11 @@ flowchart TD
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shashank-shekhar-tripathi&bg_color=09051A&color=E9D5FF&line=22D3EE&point=EC4899&area=true&hide_border=true" alt="Contribution activity graph"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=shashank-shekhar-tripathi&theme=tokyo-night"
+  width="95%"
+  alt="GitHub contribution activity graph"
+/>
 
 </div>
 
