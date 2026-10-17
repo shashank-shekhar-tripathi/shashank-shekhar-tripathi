@@ -245,9 +245,9 @@ flowchart TD
 
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=shashank-shekhar-tripathi&theme=tokyo-night"
-  width="95%"
-  alt="GitHub contribution activity graph"
+  src="./output/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="GitHub contribution graph"
 />
 
 
