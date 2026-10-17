@@ -6,8 +6,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=shashank-shekhar-tripathi&style=for-the-badge&color=7C3AED&label=PROFILE+VISITORS" alt="Profile visitors"/>
-<img src="https://img.shields.io/github/followers/shashank-shekhar-tripathi?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563EB" alt="GitHub followers"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=shashank-shekhar-tripathi&style=for-the-badge&color=7C3AED&label=PROFILE+VISITORS" alt="Profile visitors"/>
+<img src="https://img.shields.io/github/followers/shashank-shekhar-tripathi?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563EB" alt="GitHub followers"/> -->
 
 </div>
 
