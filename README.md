@@ -1,240 +1,289 @@
- <!-- GitHub Profile README -->
+ <div align="center">
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:030014,25:190061,55:5B21B6,80:2563EB,100:06B6D4&text=SHASHANK%20TRIPATHI&fontColor=FFFFFF&fontSize=48&fontAlignY=40&desc=PYTHON%20BACKEND%20ENGINEER%20%E2%9C%A6%20SAAS%20BUILDER&descAlignY=60&descSize=15&animation=twinkling" alt="Neon cyberpunk animated header"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:020617,35:172554,70:075985,100:06B6D4&text=SHASHANK%20TRIPATHI&fontColor=E0F2FE&fontSize=48&fontAlignY=42&desc=PYTHON%20BACKEND%20ENGINEER%20%7C%20SAAS%20BUILDER&descAlignY=62&descSize=15&animation=twinkling" alt="Animated profile header"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+Scalable+Backend+Systems;Python+%7C+Django+%7C+REST+APIs;Multi-Tenant+SaaS+Architecture;Database+Design+%7C+System+Design;Turning+Ideas+Into+Production-Ready+Software" alt="Animated typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&width=850&lines=Welcome+to+my+digital+universe+%E2%9C%A6;Python+%7C+Django+%7C+Backend+Engineering;Architecting+Multi-Tenant+SaaS+Platforms;Designing+Secure+and+Scalable+REST+APIs;Turning+Complex+Problems+Into+Clean+Code" alt="Animated developer introduction"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=shashank-shekhar-tripathi&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/shashank-shekhar-tripathi?style=for-the-badge&color=1d4ed8&labelColor=020617&label=FOLLOWERS" alt="GitHub followers"/>
+<img src="https://komarev.com/ghpvc/?username=shashank-shekhar-tripathi&style=for-the-badge&color=7C3AED&label=PROFILE+VISITORS" alt="Profile visitors"/>
+<img src="https://img.shields.io/github/followers/shashank-shekhar-tripathi?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563EB" alt="GitHub followers"/>
 
 </div>
 
 ---
-
-## 👨‍💻 About Me
-
-I'm **Shashank Shekhar Tripathi**, a Python Backend Developer focused on building reliable APIs, SaaS applications, and maintainable backend systems.
-
-- 🐍 Developing backend applications using **Python, Django, and Django REST Framework**.
-- 🏗️ Building **multi-tenant SaaS applications** with role-based access control.
-- 🗄️ Working with relational databases, data modeling, and query optimization.
-- 🔐 Implementing authentication, authorization, and API security.
-- ⚙️ Exploring background jobs, caching, scalable architecture, and deployment.
-- 📐 Strengthening my knowledge of **system design and software architecture**.
-- 🚀 Interested in backend engineering, distributed systems, and practical AI integrations.
-
-> My focus: writing clean backend code, designing useful APIs, and building systems that can grow with their users.
-
----
-
-## 🧰 Technology Stack
 
 <div align="center">
 
-### Backend Engineering
+### `INITIALIZING DEVELOPER MODE...`
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=dark" alt="Backend technologies"/>
-
-### Databases, Caching & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=postgres,redis,mysql,sqlite&theme=dark" alt="Database technologies"/>
-
-### Frontend & API Integration
-
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,html,css&theme=dark" alt="Frontend technologies"/>
-
-### Tools & Deployment
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker,aws,linux&theme=dark" alt="Development tools"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:06B6D4,100:EC4899" width="100%" alt="Neon separator"/>
 
 </div>
 
-**Additional backend concepts:** Django ORM, JWT, RBAC, REST API design, Swagger/OpenAPI, environment-based configuration, database migrations, multi-tenancy, and API integration.
+## 🧬 `01` — The Developer Behind the Code
 
-*Keep only technologies you have actually used or can confidently explain in an interview. Remove any icons for tools you haven't worked with.*
+Hey! I'm **Shashank Shekhar Tripathi**, a Python Backend Developer passionate about building SaaS products, backend systems, and useful software.
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Shashank Tripathi"
+        self.role = "Python Backend Developer"
+        self.focus = [
+            "Backend Engineering",
+            "System Design",
+            "Multi-Tenant SaaS",
+            "API Architecture",
+        ]
+        self.current_stack = ["Python", "Django", "PostgreSQL"]
+        self.mindset = "Build. Learn. Improve. Repeat."
+
+    def build(self):
+        return "Turning ideas into reliable software."
+```
+
+- ⚡ Building backend applications and REST APIs.
+- 🏗️ Exploring scalable, multi-tenant SaaS architecture.
+- 🗄️ Improving database design and query performance.
+- 🔐 Working with authentication, authorization, and secure APIs.
+- 🧠 Learning system design and distributed systems fundamentals.
+- 🚀 Interested in AI-powered backend applications.
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:EC4899,50:7C3AED,100:06B6D4" width="100%" alt="Neon separator"/>
+
+## ⚙️ `02` — My Technology Universe
+
+### 🐍 Backend Engineering
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=dark" alt="Backend technology icons"/>
+
+### 🗄️ Database & Caching
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite&theme=dark" alt="Database technology icons"/>
+
+### 🌐 Frontend & Integration
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,html,css&theme=dark" alt="Frontend technology icons"/>
+
+### ☁️ Tools & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,aws,linux&theme=dark" alt="Infrastructure technology icons"/>
+
+</div>
+
+**Backend toolkit:** Django REST Framework · Django ORM · JWT · RBAC · PostgreSQL schemas · Swagger/OpenAPI · API integration · Database migrations.
+
+*Keep only the technologies you have actually used and can confidently discuss.*
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:7C3AED,100:EC4899" width="100%" alt="Neon separator"/>
+
+## 🚀 `03` — Projects From My Universe
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🏢 ShankFlow CRM</h3>
+<div align="center">
+
+### 🪐 ShankFlow CRM
 
 <a href="https://shankflow.online">
-<img src="https://img.shields.io/badge/OPEN_LIVE_PROJECT-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open ShankFlow CRM"/>
+<img src="https://img.shields.io/badge/EXPLORE_LIVE-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore ShankFlow"/>
 </a>
 
-A multi-tenant SaaS CRM platform designed to help organizations manage business workflows.
+</div>
 
-**Key features**
-- Company workspaces and tenant isolation
-- Leads, deals, and sales pipeline
-- Team management and role-based permissions
-- JWT-based authentication
-- Dashboard, notices, and analytics
+A multi-tenant SaaS CRM built around company workspaces and business workflows.
 
-**Technology focus:** Python, Django, PostgreSQL, Next.js, REST APIs.
+**Features**
 
-**Source code:** Private repository.
+- 🏢 Tenant-aware company workspaces
+- 📊 Leads, deals, and sales pipelines
+- 👥 Team and role management
+- 🔐 JWT authentication and access control
+- 📈 Dashboards and analytics
+
+**Stack:** Python · Django · PostgreSQL · Next.js
+
+<sub>🔒 Source code is private.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🛡️ WebVScan</h3>
+<div align="center">
+
+### 🛡️ WebVScan
 
 <a href="https://webvscan.onrender.com">
-<img src="https://img.shields.io/badge/OPEN_LIVE_PROJECT-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open WebVScan"/>
+<img src="https://img.shields.io/badge/EXPLORE_LIVE-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore WebVScan"/>
 </a>
 
-A web application security scanning project built to explore automated website analysis and reporting.
+</div>
 
-**Key features**
-- Website crawling and scanning workflows
-- Backend APIs for scan operations
-- Scan result management
-- Report generation
-- Background task processing architecture
+A web security scanning project exploring automated crawling, scan workflows, and reporting.
 
-**Technology focus:** Python, Django REST Framework, Celery, Redis, ReportLab.
+**Features**
 
-**Source code:** Private repository.
+- 🔎 Website crawling and scan operations
+- ⚙️ Backend API endpoints
+- 📋 Scan result management
+- 📄 Report generation
+- 🔄 Background task processing
+
+**Stack:** Python · Django REST Framework · Celery · Redis
+
+<sub>🔒 Source code is private.</sub>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:06B6D4,50:2563EB,100:06B6D4" width="100%" alt="Cyan divider"/>
-
-</div>
-
-## 🏗️ System Design & Backend Architecture
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SYSTEM_DESIGN-0F172A?style=for-the-badge&logo=diagramsdotnet&logoColor=22D3EE" alt="System design"/>
-<img src="https://img.shields.io/badge/BACKEND_ARCHITECTURE-0F172A?style=for-the-badge&logo=buffer&logoColor=60A5FA" alt="Backend architecture"/>
-<img src="https://img.shields.io/badge/SCALABLE_SAAS-0F172A?style=for-the-badge&logo=cloudflare&logoColor=22D3EE" alt="Scalable SaaS"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:EC4899,100:06B6D4" width="100%" alt="Neon separator"/>
+
+## 🏗️ `04` — System Design Lab
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=600&color=22D3EE&center=true&vCenter=true&width=700&lines=Think+in+Systems;Design+for+Failure;Optimize+for+Maintainability;Build+for+Growth" alt="System design animated text"/>
 
 </div>
 
-| Area | Concepts |
+| Domain | Concepts I'm Exploring |
 |---|---|
-| API Architecture | REST principles, resource modeling, pagination, filtering, versioning, OpenAPI |
-| Application Design | Layered architecture, separation of concerns, modular monoliths, service boundaries |
-| Database Design | ER modeling, normalization, indexes, transactions, constraints, query optimization |
-| Multi-Tenant Systems | Tenant isolation, schema-based tenancy, tenant-aware request handling |
-| Security | Authentication, authorization, JWT, RBAC, least privilege, input validation |
-| Caching | Redis, cache invalidation, TTL, cache-aside patterns |
-| Async Processing | Celery, task queues, retries, scheduled jobs, idempotent operations |
-| Scalability | Stateless APIs, horizontal scaling, load balancing, connection pooling |
-| Reliability | Logging, exception handling, health checks, timeouts, retries |
-| Performance | Query analysis, pagination, avoiding N+1 queries, profiling |
-| DevOps & Delivery | Git, environment variables, CI/CD fundamentals, deployment configuration |
-| Design Principles | SOLID, DRY, KISS, dependency management, maintainability |
+| API Design | REST, resource modeling, pagination, filtering, versioning, OpenAPI |
+| Architecture | Layered architecture, modular monoliths, service boundaries, separation of concerns |
+| Database Engineering | Normalization, ER diagrams, indexing, transactions, query optimization, connection pooling |
+| Multi-Tenant SaaS | Tenant isolation, schema-based tenancy, tenant-aware middleware |
+| Authentication | JWT, RBAC, permissions, least privilege, token lifecycle |
+| Caching | Redis, cache-aside, TTL, cache invalidation |
+| Async Systems | Celery, task queues, retries, scheduling, idempotency |
+| Scalability | Stateless APIs, horizontal scaling, load balancing, bottleneck analysis |
+| Reliability | Timeouts, retries, logging, health checks, graceful error handling |
+| Performance | N+1 query prevention, profiling, pagination, efficient ORM queries |
+| Design Principles | SOLID, DRY, KISS, dependency inversion, modularity |
+| Delivery | Git, CI/CD fundamentals, environment configuration, deployment and monitoring |
 
-### 🧩 Architecture I Like Exploring
+### 🔮 Backend Architecture Concept
 
-```text
-                 CLIENT APPLICATION
-                         |
-                         v
-                  API / HTTP LAYER
-                         |
-                         v
-               AUTHENTICATION & RBAC
-                         |
-                         v
-                 DJANGO APPLICATION
-                    /          \
-                   v            v
-            BUSINESS LOGIC    CACHE
-                   |          (Redis)
-                   v
-              PostgreSQL
-                   |
-                   v
-          BACKGROUND TASK QUEUE
-                   |
-                   v
-             WORKER PROCESSES
+```mermaid
+flowchart TD
+    A[Client Application] --> B[API Gateway / Routing]
+    B --> C[Authentication and RBAC]
+    C --> D[Django REST API]
+    D --> E[Business Logic]
+    E --> F[(PostgreSQL)]
+    E <--> G[(Redis Cache)]
+    E --> H[Task Queue]
+    H --> I[Background Workers]
+    I --> F
+
+    classDef client fill:#190061,stroke:#A78BFA,color:#FFFFFF
+    classDef backend fill:#172554,stroke:#60A5FA,color:#FFFFFF
+    classDef storage fill:#064E3B,stroke:#34D399,color:#FFFFFF
+    classDef async fill:#4A044E,stroke:#F0ABFC,color:#FFFFFF
+
+    class A,B client
+    class C,D,E backend
+    class F,G storage
+    class H,I async
 ```
 
-*Architecture illustration for learning and discussion; the exact components vary by project.*
+<sub>Illustrative architecture for learning; not a claim that every component is deployed in both projects.</sub>
 
 ---
 
-## 🌌 My 3D GitHub Contribution Landscape
-
 <div align="center">
 
-<!-- This image appears after the GitHub Action generates the file in your repository. -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:EC4899,100:7C3AED" width="100%" alt="Neon separator"/>
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution landscape"/>
+## 🐍 `05` — My Contributions in Motion
+
+<!-- Generated by the GitHub Actions workflow described below. -->
+
+<img src="./output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
+
+<br/>
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution landscape"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shashank-shekhar-tripathi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=60A5FA&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics"/>
+## 📊 `06` — GitHub Statistics
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-shekhar-tripathi&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1" alt="Most-used languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shashank-shekhar-tripathi&show_icons=true&rank_icon=github&theme=midnight-purple&hide_border=true&bg_color=09051A&title_color=C4B5FD&icon_color=22D3EE&text_color=E9D5FF" alt="GitHub stats"/>
 
-<br/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-shekhar-tripathi&theme=tokyonight&hide_border=true&background=020617&ring=22D3EE&fire=60A5FA&currStreakLabel=22D3EE" alt="GitHub contribution streak"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-shekhar-tripathi&layout=compact&theme=midnight-purple&hide_border=true&bg_color=09051A&title_color=C4B5FD&text_color=E9D5FF" alt="Most-used languages"/>
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shashank-shekhar-tripathi&bg_color=020617&color=CBD5E1&line=22D3EE&point=60A5FA&area=true&hide_border=true" alt="GitHub activity graph"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-shekhar-tripathi&theme=midnight-purple&hide_border=true&background=09051A&ring=22D3EE&fire=EC4899&currStreakLabel=C4B5FD" alt="Contribution streak"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shashank-shekhar-tripathi&bg_color=09051A&color=E9D5FF&line=22D3EE&point=EC4899&area=true&hide_border=true" alt="Contribution activity graph"/>
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+<div align="center">
 
-- Improving Python and Django backend engineering.
-- Designing maintainable, secure REST APIs.
-- Learning scalable multi-tenant SaaS architecture.
-- Practicing database design and system design fundamentals.
-- Improving testing, deployment, and CI/CD workflows.
-- Exploring AI API integration in backend applications.
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:EC4899,50:7C3AED,100:06B6D4" width="100%" alt="Neon separator"/>
+
+## 🎯 `07` — Currently Leveling Up
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=600&color=22D3EE&center=true&vCenter=true&width=700&lines=Advanced+Django+Patterns;Database+Performance;Multi-Tenant+Architecture;System+Design+Fundamentals;Reliable+Background+Processing" alt="Learning goals animation"/>
+
+</div>
+
+- [ ] Stronger automated testing and test coverage.
+- [ ] Advanced SQL and PostgreSQL performance tuning.
+- [ ] Scalable API and multi-tenant architecture.
+- [ ] System design interview preparation.
+- [ ] CI/CD, observability, and reliable deployments.
+- [ ] AI API integration into backend applications.
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
+
+## 🌐 Connect With Me
 
 <a href="https://github.com/shashank-shekhar-tripathi">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/GitHub-09051A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </a>
 
 <a href="mailto:tripathiji931@gmail.com">
-<img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-*Building thoughtfully. Learning continuously. Shipping useful software.*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:030014,35:4C1D95,70:1D4ED8,100:06B6D4" width="100%" alt="Animated neon footer"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:020617&height=120&section=footer" alt="Animated footer"/>
+### `BUILD • BREAK • LEARN • REPEAT`
+
+<sub>Designed in neon. Powered by curiosity. Built with Python.</sub>
 
 </div>
